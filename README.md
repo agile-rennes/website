@@ -1,6 +1,10 @@
 Site web Agile Rennes
 -
 
+[![github pages](https://github.com/agile-rennes/website/actions/workflows/gh-pages.yml/badge.svg)](https://github.com/agile-rennes/website/actions/workflows/gh-pages.yml)
+
+[![pages-build-deployment](https://github.com/agile-rennes/website/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/agile-rennes/website/actions/workflows/pages/pages-build-deployment)
+
 **Développement** 
 
   * Pré-requis : 
