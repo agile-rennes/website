@@ -67,30 +67,6 @@ a.navbar-item {
     font-size: 1.2em;
 }
 
-.logo-container {
-    z-index: 20;
-    position: absolute;
-    top: 0%;
-    width: 40%;
-}
-
-.logo-container img.logo {
-    position: absolute;
-    width: 60%;
-    left: 22%;
-    top: 6%;
-}
-
-.logo-container .sub-logo {
-    position: absolute;
-    color: #FFF;
-    z-index: 1;
-    font-weight: bolder;
-    font-size: 1.6em;
-    top: 36%;
-    left: 24%;
-}
-
 .section {
     padding: 25px 0 25px 0;
 }
@@ -107,9 +83,13 @@ a.navbar-item {
 }
 
 #intro {
-    margin-left: 35%;
-    padding-right: 150px;
+    margin-top: 2%;
     text-align: justify;
+}
+
+.intro {
+    display: flex;
+    padding-right: 25px;
 }
 
 #bureau {
