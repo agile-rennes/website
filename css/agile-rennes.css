@@ -92,6 +92,16 @@ a.navbar-item {
     padding-right: 25px;
 }
 
+.button-adherer, .button-adherer:hover {
+    background-color: #3E99C1;
+    color: #FFFFFF;
+}
+
+.nous-trouver {
+    display: flex;
+    justify-content: space-between;
+}
+
 #bureau {
     background-color: #3e99c1;
 }
@@ -116,7 +126,7 @@ a.navbar-item {
     color: #3E99C1;
     display: inline-block;
     font-weight: bold;
-    margin-top: -1em;
+    margin-top: 0em;
     opacity: 0.8;
     padding-left: 1em;
     padding-right: 1em;
@@ -143,6 +153,10 @@ h2 {
     #intro {
         margin: 0;
         padding: 10px;
+    }
+
+    .nous-trouver {
+        display: block;
     }
 
     .bureau-member div {
