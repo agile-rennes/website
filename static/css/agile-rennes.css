@@ -82,14 +82,18 @@ a.navbar-item {
     overflow: hidden;
 }
 
-#intro {
+#intro, #newsletter {
     margin-top: 2%;
     text-align: justify;
 }
 
-.intro {
+.intro, .newsletter {
     display: flex;
     padding-right: 25px;
+}
+
+.newsletter .section-heading{
+    padding:20px;
 }
 
 .button-adherer, .button-adherer:hover {
