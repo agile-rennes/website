@@ -147,6 +147,19 @@ h2 {
     margin-right: 10px;
 }
 
+.newsletter-bouton {
+    border-bottom: 2px solid #FFFFFF;
+    border-top: 2px solid #FFFFFF;
+    border-right: 2px solid #FFFFFF;
+    color: #FFFFFF;
+    background-color: #3E99C1;
+    font-weight: bold;
+    padding: 10px;
+    cursor: pointer;
+    font-size: 15px;
+    width: 150px !important;
+}
+
 @media screen and (max-width: 576px) {
 
     .logo-container .sub-logo {
@@ -157,6 +170,14 @@ h2 {
     #intro {
         margin: 0;
         padding: 10px;
+    }
+
+    .newsletter {
+        flex-direction: column;
+    }
+
+    #mc_embed_signup {
+        width: 100% !important;
     }
 
     .nous-trouver {
