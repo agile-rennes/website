@@ -82,12 +82,12 @@ a.navbar-item {
     overflow: hidden;
 }
 
-#intro, #newsletter {
+#intro {
     margin-top: 2%;
     text-align: justify;
 }
 
-.intro, .newsletter {
+.intro {
     display: flex;
     padding-right: 25px;
 }
@@ -145,19 +145,6 @@ h2 {
 .arrow {
     width: 20px;
     margin-right: 10px;
-}
-
-.newsletter-bouton {
-    border-bottom: 2px solid #FFFFFF;
-    border-top: 2px solid #FFFFFF;
-    border-right: 2px solid #FFFFFF;
-    color: #FFFFFF;
-    background-color: #3E99C1;
-    font-weight: bold;
-    padding: 10px;
-    cursor: pointer;
-    font-size: 15px;
-    width: 150px !important;
 }
 
 @media screen and (max-width: 576px) {
