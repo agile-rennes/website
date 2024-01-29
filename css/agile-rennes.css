@@ -108,6 +108,7 @@ a.navbar-item {
 
 #bureau {
     background-color: #3e99c1;
+    padding-bottom: 5em;
 }
 
 #bureau h3 {
@@ -135,7 +136,8 @@ a.navbar-item {
     padding-left: 1em;
     padding-right: 1em;
     position: relative;
-    top: -1em;
+    top: 3em;
+    left: -10em;
 }
 
 h2 {
